@@ -5,6 +5,8 @@
 
 <h2> Welcome, let's code! </h2>
 
+<img src="https://media1.tenor.com/m/iAy-KwJB1DkAAAAC/typing.gif" alt="Bem vindo"/>
+
 <!---
 walkingblack/walkingblack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
