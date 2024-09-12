@@ -1,33 +1,18 @@
- 👋 Hi, I’m Antonio Jesuz
-- 👀 I’m interested in Data Engineer...
-- 🌱 I’m currently learning SQL
-- 📫 How to reach me @antoniojesuz...
+<h1 align="center">Hi 👋, I'm Antonio Jesuz</h1>
+<h3 align="center">Analista de Dados</h3>
 
-<h2> Welcome, let's code! </h2>
+- 🔭 I’m currently working on **Técnico de Suporte em TI**
 
-<img src="https://media1.tenor.com/m/iAy-KwJB1DkAAAAC/typing.gif" alt="Bem vindo"/>
+- 🌱 I’m currently learning **SQL, Numpy e Polars**
 
-<!---
-walkingblack/walkingblack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<p> Oito anos de experiência com atendimento ao cliente e suporte técnico. A partir do momento, decidi dedicar os estudos no desenvolvimento front end.</p>
+- 💬 Ask me about **Trabalho como Técnico de Suporte usando as tecnologias: Windows, Servicenow, Python, Splunk e gerenciamento de redes e telefonia móvel.**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/antonio-jesuz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antonio-jesuz/" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<br>
-<p> <strong>Tech Stack: </strong></p>
-
-<span>
-<img widht="50px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 icon" />
-<img width="75px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 icon" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript icon" />
-<img widht="50x" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora icon" />
-<img src="https://img.shields.io/badge/gnu%20bash-%234EAA25.svg?&style=for-the-badge&logo=gnu%20bash&logoColor=white" />
-<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
-<img widht="50px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git icon" />
-<img widht="50px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code icon"
-</span>
-
-
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=walkingblack&show_icons=true&locale=en&layout=compact" alt="walkingblack" /></p>
