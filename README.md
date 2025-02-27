@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antonio Jesuz</h1>
-<h3 align="center">Analista de Dados</h3>
+<h3 align="center">Analista de Suporte</h3>
 
-- 🔭 I’m currently working on **Técnico de Suporte em TI**
+- 🔭 I’m currently working on **Técnico de Suporte**
 
 - 🌱 I’m currently learning **SQL, Numpy e Polars**
 
