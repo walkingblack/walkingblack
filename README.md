@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Antonio Jesuz</h1>
+<h1 align="center">Hi, I'm Antonio Jesuz 👋</h1>
 <h3 align="center">Analista de Suporte</h3>
 
 - 🔭 I’m currently working on **Técnico de Suporte**
