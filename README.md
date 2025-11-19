@@ -38,3 +38,6 @@
 💬 Quer colaborar em um projeto criativo e inovador? Estou sempre aberto a novas ideias e parcerias. Entre em contato comigo para discutirmos como podemos criar algo verdadeiramente extraordinário juntos. 💬
 
 ![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=walkingblack\&rank_icon=percentile)
+
+## Entre em contato
+LinkedIn: https://www.linkedin.com/in/antonio-jesuz
