@@ -16,14 +16,14 @@
 
     [![My Skills](https://skillicons.dev/icons?i=python,haskell,julia)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
-
-    [![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv)](https://skillicons.dev)
+    
+    [![My Skills](https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,opencv)](https://skillicons.dev)
 - Dados: 
 
     [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongo)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu)](https://skillicons.dev)
 
 ## Projetos Criativos
 
