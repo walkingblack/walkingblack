@@ -33,11 +33,5 @@
 2. [Projeto 2](https://github.com/walkingblack/Analise_Credito): Análise de crédito realizado na India demonstrando o gasto com cada tipo de cartão e a média gasta por pessoas.
 3. [Projeto 3](https://github.com/walkingblack/HealthCare): Análise exploratória de dados voltados para a área da saúde.
 
-## Vamos Criar Algo Incrível! 💫
-
-💬 Quer colaborar em um projeto criativo e inovador? Estou sempre aberto a novas ideias e parcerias. Entre em contato comigo para discutirmos como podemos criar algo verdadeiramente extraordinário juntos. 💬
-
-![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=walkingblack\&rank_icon=percentile)
-
 ## Entre em contato
 LinkedIn: https://www.linkedin.com/in/antonio-jesuz
